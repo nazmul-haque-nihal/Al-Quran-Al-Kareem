@@ -70,9 +70,9 @@ An advanced, feature-rich web application for reading and studying the Holy Qura
 
 ```
 /
-├── quran_webapp.html    # Main application
-├── quran_data.js        # Quran text data (Arabic/English/Bangla)
-└── README.md           # This file
+├── index.html          # Main application
+├── quran_data.js       # Quran text data (Arabic/English/Bangla)
+└── README.md          # This file
 ```
 
 ## 🚀 Deployment

@@ -3,6 +3,7 @@
 > بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ
 
 An advanced, feature-rich web application for reading and studying the Holy Quran with Arabic, English, and Bangla translations. Designed with modern web technologies and Islamic aesthetics for an unparalleled user experience.
+<img width="1068" height="919" alt="Quran" src="https://github.com/user-attachments/assets/a8c43dbd-bcec-4dc1-a391-06f2d632ca3a" />
 
 ## 🌟 Features
 
